@@ -6,9 +6,6 @@ function sumfac(numbers) {
         sum = sum + numbers[i]
        //sum+=numbers[i]
     }
-
-
-
     return sum
 
 }
